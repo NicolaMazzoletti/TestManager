@@ -20,5 +20,5 @@ ___
 ####programma di massima per la prossima giornata di lavoro
 ___
 
-Terminare la progettazione
+Continuare
 ___
